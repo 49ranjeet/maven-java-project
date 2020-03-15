@@ -1,2 +1,1 @@
-
-pom.xml filter=git-crypt diff=git-crypt
+passwoed.properties filter=git-crypt diff=git-crypt
